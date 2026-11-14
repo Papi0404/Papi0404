@@ -1,15 +1,15 @@
 <div align="center">
 
-  <!-- SHINOBU KOCHO HERO BANNER -->
+  <!-- HU TAO HERO BANNER -->
   <a href="https://github.com/Papi0404">
-    <img src="./assets/shinobu_banner.gif" width="100%" style="border-radius: 14px; max-height: 420px; object-fit: cover; box-shadow: 0 8px 32px rgba(123, 44, 191, 0.4);" alt="Shinobu Kocho Aesthetic Banner" />
+    <img src="./assets/hutao_banner.gif" width="100%" style="border-radius: 14px; max-height: 420px; object-fit: cover; box-shadow: 0 8px 32px rgba(214, 40, 40, 0.4);" alt="Hu Tao Aesthetic Banner" />
   </a>
 
   <br><br>
 
   <!-- DYNAMIC TYPING SVG HEADER -->
   <a href="https://github.com/Papi0404">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=B388FF&center=true&vCenter=true&width=650&height=52&lines=Moshi+Moshi~+Daijoubu+desu+ka%3F+%F0%9F%A6%8B;Januar+Zidane+Tinendeng+%2F%2F+Papi0404+%E2%9A%A1;Fullstack+Engineer+%E2%80%A2+LMS+Core+Architect;Insect+Breathing%3A+Precision+%26+Optimization+%F0%9F%92%9C;Crafting+High-Concurrency+Systems" alt="Typing Header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=FF4D4F&center=true&vCenter=true&width=650&height=52&lines=Oya%3F+Oya+oya%3F+A+visitor+has+arrived!+%F0%9F%91%BB%F0%9F%94%A5;Januar+Zidane+Tinendeng+%2F%2F+Papi0404+%E2%9A%A1;Fullstack+Software+Engineer+%E2%80%A2+Systems+Architect;77th+Director+of+Clean+Code+%E2%9A%B0%EF%B8%8F;Sending+Bugs+Straight+to+the+Afterlife+%F0%9F%A6%8B;Crafting+High-Concurrency+Systems" alt="Typing Header" />
   </a>
 
   <br>
@@ -17,16 +17,16 @@
   <!-- BADGES & SOCIALS -->
   <p align="center">
     <a href="https://github.com/Papi0404">
-      <img src="https://img.shields.io/badge/GitHub-Papi0404-161224?style=for-the-badge&logo=github&logoColor=b388ff&color=7b2cbf" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-Papi0404-19131e?style=for-the-badge&logo=github&logoColor=ff4d4f&color=d62828" alt="GitHub" />
     </a>
     <a href="mailto:papijanuar147@gmail.com">
-      <img src="https://img.shields.io/badge/Email-papijanuar147%40gmail.com-161224?style=for-the-badge&logo=gmail&logoColor=00f5d4&color=3a0ca3" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-papijanuar147%40gmail.com-19131e?style=for-the-badge&logo=gmail&logoColor=ffb703&color=9e2a2b" alt="Email" />
     </a>
     <a href="https://github.com/Papi0404">
-      <img src="https://img.shields.io/badge/Role-Software_Engineer-161224?style=for-the-badge&logo=codeforces&logoColor=b388ff&color=7b2cbf" alt="Role" />
+      <img src="https://img.shields.io/badge/Role-Software_Engineer-19131e?style=for-the-badge&logo=codeforces&logoColor=ff4d4f&color=d62828" alt="Role" />
     </a>
     <a href="https://github.com/Papi0404">
-      <img src="https://img.shields.io/badge/Breathing-Insect_Hashira_%F0%9F%A6%8B-161224?style=for-the-badge&logo=target&logoColor=00f5d4&color=480ca8" alt="Breathing" />
+      <img src="https://img.shields.io/badge/Vision-Pyro_%E2%9A%A1_%E2%9A%B0%EF%B8%8F-19131e?style=for-the-badge&logo=target&logoColor=ffb703&color=540b0e" alt="Vision" />
     </a>
   </p>
 
@@ -34,33 +34,46 @@
 
 ---
 
-### 🦋 `01 // INSECT HASHIRA IDENTITY`
+### 👻 `01 // 77TH DIRECTOR PROFILE`
 
 <table>
   <tr>
     <td width="65%" valign="top">
       <p>
-        Halo! Gue <b>Januar Zidane Tinendeng</b> (<code>@Papi0404</code>) — Software Engineer & LMS Architecture Specialist yang fokus pada performa tinggi, modularitas, dan skalabilitas sistem.
+        Halo! Gue <b>Januar Zidane Tinendeng</b> (<code>@Papi0404</code>) — Fullstack Software Engineer & Systems Architect yang suka ngebangun aplikasi berskala besar, sistem berkonkurensi tinggi, dan optimasi arsitektur database.
       </p>
       <ul>
-        <li>💜 <b>Current Focus:</b> High-concurrency Computer-Based Testing (CBT) & Real-time AI Proctoring on Moodle LMS.</li>
-        <li>⚡ <b>Core Philosophy:</b> <i>"Strike bugs with surgical precision, optimize queries until the latency bleeds to zero."</i></li>
-        <li>🧬 <b>Specialties:</b> PHP / Laravel / Modern Moodle Architecture (Hooks & Events), TypeScript, Python Automation, Docker & Linux Systems.</li>
-        <li>🌱 <b>Learning:</b> Distributed Systems, Deep Concurrency Tuning & Scalable Cloud Deployments.</li>
-        <li>💬 <b>Ask me about:</b> Fullstack Engineering, Database Query Caching, Moodle Plugins, and Anime!</li>
+        <li>🔥 <b>Current Focus:</b> High-concurrency enterprise web platforms, custom LMS/CBT engines, and real-time backend streaming.</li>
+        <li>⚡ <b>Core Philosophy:</b> <i>"When software grows massive, sending bugs to the afterlife with surgical optimization is the only way."</i></li>
+        <li>🧬 <b>Specialties:</b> PHP / Modern Frameworks, Node.js / TypeScript, Python Automation, Deep SQL Query Tuning, Docker & Linux DevOps.</li>
+        <li>🌱 <b>Exploring:</b> Distributed microservices, memory caching patterns, and high-throughput websocket protocols.</li>
+        <li>💬 <b>Ask me about:</b> Fullstack Development, API Architecture, Performance Engineering, or Genshin Impact!</li>
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="./assets/shinobu_butterfly.gif" width="220px" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(123, 44, 191, 0.5);" alt="Shinobu Kocho Butterfly" />
+      <img src="./assets/hutao_wink.gif" width="220px" style="border-radius: 14px; box-shadow: 0 4px 24px rgba(214, 40, 40, 0.5);" alt="Hu Tao Wink" />
       <br>
-      <sub><i>"Dance of the Butterfly: Caprice"</i></sub>
+      <sub><i>"Balance must be maintained, both in life and in code."</i></sub>
     </td>
   </tr>
 </table>
 
 ---
 
-### ⚡ `02 // BREATHING TECHNIQUES & ARSENAL`
+### 🐍 `02 // COMMIT & CONTRIBUTION SNAKE`
+
+<div align="center">
+  <p><i>A fiery snake traversing through commit milestones and contribution history:</i></p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Papi0404/Papi0404/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Papi0404/Papi0404/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Papi0404/Papi0404/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
+### ⚡ `03 // ARSENAL & SKILLS`
 
 <p align="center">
   <b>Languages & Frameworks</b><br>
@@ -78,16 +91,16 @@
 
 ---
 
-### 📊 `03 // BATTLE STATS & CONTRIBUTIONS`
+### 📊 `04 // BATTLE STATS & STREAK`
 
 <div align="center">
   <table border="0">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Papi0404&show_icons=true&bg_color=161224&title_color=b388ff&text_color=e2d9f3&icon_color=00f5d4&border_color=7b2cbf" alt="Papi0404 GitHub Stats" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Papi0404&show_icons=true&bg_color=19131e&title_color=ff4d4f&text_color=f7cad0&icon_color=ffb703&border_color=d62828" alt="Papi0404 GitHub Stats" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Papi0404&layout=compact&bg_color=161224&title_color=b388ff&text_color=e2d9f3&border_color=7b2cbf" alt="Papi0404 Top Languages" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Papi0404&layout=compact&bg_color=19131e&title_color=ff4d4f&text_color=f7cad0&border_color=d62828" alt="Papi0404 Top Languages" />
       </td>
     </tr>
   </table>
@@ -95,43 +108,28 @@
   <br>
 
   <!-- STREAK STATS -->
-  <img src="https://streak-stats.demolab.com?user=Papi0404&background=161224&border=7b2cbf&stroke=b388ff&ring=00f5d4&fire=b388ff&currStreakLabel=00f5d4&sideNums=e2d9f3&sideLabels=b388ff&dates=9d4edd" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Papi0404&background=19131e&border=d62828&stroke=ff4d4f&ring=ffb703&fire=ff4d4f&currStreakLabel=ffb703&sideNums=f7cad0&sideLabels=ff4d4f&dates=f28482" alt="GitHub Streak" />
 </div>
 
 ---
 
-### 🛡️ `04 // FEATURED PROJECT: LUMINA LMS & CBT SUITE`
-
-```text
-┌────────────────────────────────────────────────────────────────────────┐
-│  PROJECT      : Lumina CBT & Real-Time Anti-Cheat Proctoring Suite     │
-│  TARGET       : Enterprise Moodle 4.0 - 5.3+ Core                      │
-│  CAPABILITIES : Dual PSR-14 Hooks, AI Window Lock, Audit Stream        │
-│  REPO         : https://github.com/Papi0404/Lumina-lms                 │
-└────────────────────────────────────────────────────────────────────────┘
-```
-
-> 🦋 **[Explore Lumina-LMS Repository →](https://github.com/Papi0404/Lumina-lms)**  
-> Engineered with zero core table alterations, sub-2ms cached permission checks, and auto-cleanup uninstallation routines.
-
----
-
-### 🌸 `05 // WORDS OF THE INSECT HASHIRA`
+### ⚰️ `05 // WORDS OF THE 77TH DIRECTOR`
 
 <div align="center">
 
-> *"Even if I lack physical brute strength to cut off a demon's head, I create the poison to vanquish them.*  
-> *When your software grows massive, brute-forcing won't save you. Write code with surgical grace, lethal precision, and unwavering purpose."*  
-> — **胡蝶 しのぶ (Shinobu Kocho)**
+> *"Silly-churl, billy-churl, silly-billy hilichurl~ 🎵*  
+> *One client, two clients, three clients! When bugs and legacy debt pile up, don't panic.*  
+> *Send them peacefully to the afterlife with clean abstractions and unyielding precision."*  
+> — **胡桃 (Hu Tao) 👻**
 
 <br>
 
-<img src="./assets/shinobu_smile.gif" width="100px" style="border-radius: 50%; box-shadow: 0 0 15px rgba(179, 136, 255, 0.6);" alt="Shinobu Kocho Smile" />
+<img src="./assets/hutao_dance.gif" width="260px" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(255, 77, 79, 0.4);" alt="Hu Tao Dance" />
 
 <br><br>
 
 **Januar Zidane Tinendeng (`@Papi0404`)**  
 `SMKN 8 Jakarta • Rekayasa Perangkat Lunak`  
-*Crafted with purple aesthetics, butterflies, and passion for engineering.* 🦋✨
+*Crafted with flames, butterfly motifs, and passion for engineering.* 👻🔥
 
 </div>
