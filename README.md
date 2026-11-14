@@ -108,7 +108,7 @@
   <br>
 
   <!-- STREAK STATS -->
-  <img src="https://streak-stats.demolab.com?user=Papi0404&background=19131e&border=d62828&stroke=ff4d4f&ring=ffb703&fire=ff4d4f&currStreakLabel=ffb703&sideNums=f7cad0&sideLabels=ff4d4f&dates=f28482" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Papi0404&background=19131e&border=d62828&stroke=ff4d4f&ring=ffb703&fire=ff4d4f&currStreakLabel=ffb703&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ff4d4f&dates=f7cad0" alt="GitHub Streak" />
 </div>
 
 ---
