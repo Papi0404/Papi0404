@@ -97,10 +97,10 @@
   <table border="0">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Papi0404&show_icons=true&bg_color=19131e&title_color=ff4d4f&text_color=f7cad0&icon_color=ffb703&border_color=d62828" alt="Papi0404 GitHub Stats" />
+        <img src="https://github-readme-stats-mu-silk.vercel.app/api?username=Papi0404&show_icons=true&bg_color=19131e&title_color=ff4d4f&text_color=f7cad0&icon_color=ffb703&border_color=d62828" alt="Papi0404 GitHub Stats" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Papi0404&layout=compact&bg_color=19131e&title_color=ff4d4f&text_color=f7cad0&border_color=d62828" alt="Papi0404 Top Languages" />
+        <img src="https://github-readme-stats-mu-silk.vercel.app/api/top-langs/?username=Papi0404&layout=compact&bg_color=19131e&title_color=ff4d4f&text_color=f7cad0&border_color=d62828" alt="Papi0404 Top Languages" />
       </td>
     </tr>
   </table>
@@ -108,7 +108,7 @@
   <br>
 
   <!-- STREAK STATS -->
-  <img src="https://streak-stats.demolab.com?user=Papi0404&background=19131e&border=d62828&stroke=ff4d4f&ring=ffb703&fire=ff4d4f&currStreakLabel=ffb703&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ff4d4f&dates=f7cad0" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Papi0404&background=19131e&border=d62828&stroke=ff4d4f&ring=ffb703&fire=ff4d4f&currStreakLabel=ffb703&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ff4d4f&dates=f7cad0&v=3" alt="GitHub Streak" />
 </div>
 
 ---
